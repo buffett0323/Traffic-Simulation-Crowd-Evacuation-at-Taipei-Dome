@@ -15,7 +15,7 @@ This program is written in NetLogo, and therefore requires a NetLogo environment
 
 ### Installation
 
-No installation necessary; simply download the geo_sim_final3.asc file, load into NetLogo
+No installation necessary; simply download the ```Code/geo_sim_final3.asc``` file and load into NetLogo
 
 ### Author
 
